@@ -2,8 +2,13 @@
 content_type: resource
 description: Outline 5. This handout contains an outline of topics covered in course
   lectures.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-054-mechanics-and-design-of-concrete-structures-spring-2004/90877f43bc29de3df0f3b34fda49b5a2_Outline_05.pdf
+file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/90877f43bc29de3df0f3b34fda49b5a2_Outline_05.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Outline_05.pdf
 uid: 90877f43-bc29-de3d-f0f3-b34fda49b5a2

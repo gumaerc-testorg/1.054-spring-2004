@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-054-mechanics-and-design-of-concrete-structures-spring-2004/1a859238ff6fb993a3877c5b74ef4d37_fnl_prs_bssm_dhr.pdf
+file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/1a859238ff6fb993a3877c5b74ef4d37_fnl_prs_bssm_dhr.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: fnl_prs_bssm_dhr.pdf
 uid: 1a859238-ff6f-b993-a387-7c5b74ef4d37
