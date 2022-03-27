@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: prpsl_rql_r_ectl.pdf
 uid: e4605a24-cf7b-83f8-19eb-ab8eed14df8a

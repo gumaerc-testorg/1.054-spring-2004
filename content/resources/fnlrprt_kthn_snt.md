@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: fnlrprt_kthn_snt.pdf
 uid: de5d04a6-31a9-6bbf-ccbb-57ddc332922b

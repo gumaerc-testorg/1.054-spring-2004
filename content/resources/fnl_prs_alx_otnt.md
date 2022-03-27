@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: fnl_prs_alx_otnt.pdf
 uid: e83a9c1e-21bb-8aca-16b3-5479b68e2ff1

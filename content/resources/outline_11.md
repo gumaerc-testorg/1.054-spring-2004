@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7468ce0-2ce7-e574-0805-a13f07aefc56
 resourcetype: Document
 title: Outline_11.pdf
 uid: cde398fb-ea61-d6c9-7dc5-55e23ace9866

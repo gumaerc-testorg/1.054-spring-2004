@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7468ce0-2ce7-e574-0805-a13f07aefc56
 resourcetype: Document
 title: o_13_n_dstrc_evl.pdf
 uid: 6aedeab1-2698-9039-773c-5b85c3c8de9b

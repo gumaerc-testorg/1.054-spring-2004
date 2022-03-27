@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: fnl_prs_ry_krdah.pdf
 uid: 25b97cb9-dcd2-180d-4380-9df95ef32b31

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: prpsl_rchrd_unrh.pdf
 uid: 6a533e46-041c-016d-bc42-057f9810177e

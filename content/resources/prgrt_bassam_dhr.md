@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: prgrt_bassam_dhr.pdf
 uid: 8d5d1798-9f25-63fe-7870-4e6238e2a8ec

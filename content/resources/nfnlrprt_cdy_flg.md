@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: nfnlrprt_cdy_flg.pdf
 uid: 5ddb3a21-d378-a422-7561-0d79e5140c29

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: prgrt_rchrd_unrh.pdf
 uid: a5162f3c-6354-5a57-f4dd-f526d5a0abef

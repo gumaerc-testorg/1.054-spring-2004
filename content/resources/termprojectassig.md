@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: termprojectassig.pdf
 uid: 3bfc6fd6-e47a-9f20-342e-2aa445a3f46e

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7468ce0-2ce7-e574-0805-a13f07aefc56
 resourcetype: Document
 title: o_14_e_rsk_a_h_m.pdf
 uid: 156b9930-6ce3-8bde-0113-437b706b48e7

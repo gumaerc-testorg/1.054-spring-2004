@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 86f46476-c298-07c6-55b5-b6675d15d307
 resourcetype: Document
 title: prgrt_evan_lapnt.pdf
 uid: a5fcb97f-d9d1-94e4-5d6d-1a8bbbe3b4ea

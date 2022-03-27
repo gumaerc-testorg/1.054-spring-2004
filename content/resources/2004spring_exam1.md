@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 960e1dfe-808b-d7b8-dbf0-49ef6d3226e6
 resourcetype: Document
 title: 2004spring_exam1.pdf
 uid: 2f773045-9657-5534-145e-7f2e7bffa002
