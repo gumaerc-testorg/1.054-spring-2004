@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/53df0fd1fc61d80ffc7f012824750dd3_2004_springexam2.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/53df0fd1fc61d80ffc7f012824750dd3_2004_springexam2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

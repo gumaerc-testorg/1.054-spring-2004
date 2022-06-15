@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes students' projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: 86f46476-c298-07c6-55b5-b6675d15d307
 Project Assignment
 ------------------
 
-The following document provides the term project assignment for Spring 2004. ([PDF]({{< baseurl >}}/resources/termprojectassig))
+The following document provides the term project assignment for Spring 2004. ({{% resource_link 3bfc6fd6-e47a-9f20-342e-2aa445a3f46e "PDF" %}})
 
 Project Topics
 --------------

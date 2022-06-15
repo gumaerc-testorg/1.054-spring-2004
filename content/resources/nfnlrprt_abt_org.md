@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6698ca34db38fc4285c867ed4ad13378_nfnlrprt_abt_org.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6698ca34db38fc4285c867ed4ad13378_nfnlrprt_abt_org.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

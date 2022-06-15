@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/4e9f99680d5648fcc7e6c02cc9898940_chp_boston.jpg
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/4e9f99680d5648fcc7e6c02cc9898940_chp_boston.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

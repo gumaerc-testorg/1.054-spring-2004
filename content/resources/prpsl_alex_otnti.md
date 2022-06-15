@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/250dacb7a778118667b254cc395df2b0_prpsl_alex_otnti.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/250dacb7a778118667b254cc395df2b0_prpsl_alex_otnti.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
