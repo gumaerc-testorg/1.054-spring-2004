@@ -6,6 +6,7 @@ file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/13f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: DesignExample2.pdf
 uid: 13fc19d9-f3cc-5de9-392f-d1553a1e9405
 ---
 Exercise involving questions and problems related to the Design Example provided here.
-

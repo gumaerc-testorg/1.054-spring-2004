@@ -5,6 +5,7 @@ file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/bd7
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

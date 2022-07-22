@@ -6,6 +6,7 @@ file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/a87
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Outline_03.pdf
 uid: a8721fb5-d67c-3993-e66b-2654cc9f26c9
 ---
 Outline 3. This handout contains an outline of topics covered in course lectures.
-

@@ -6,6 +6,7 @@ file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6ae
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: o_13_n_dstrc_evl.pdf
 uid: 6aedeab1-2698-9039-773c-5b85c3c8de9b
 ---
 Outline 13. This handout contains an outline of topics covered in course lectures.
-
