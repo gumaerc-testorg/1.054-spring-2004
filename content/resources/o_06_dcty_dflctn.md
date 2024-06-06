@@ -3,6 +3,7 @@ content_type: resource
 description: Outline 6. This handout contains an outline of topics covered in course
   lectures.
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/595a606abc6a3f85856848aa741ba382_o_06_dcty_dflctn.pdf
+file_size: 174224
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

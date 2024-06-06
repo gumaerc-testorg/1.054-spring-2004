@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/216a310e13cc6b42a1296b2555b49a39_prgrt_albrt_ortg.pdf
+file_size: 55799
 file_type: application/pdf
 learning_resource_types:
 - Projects
