@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/77632777e1c5edf4bfc393eda480a5d7_proposal_bassam.pdf
+file_size: 14753
 file_type: application/pdf
 learning_resource_types:
 - Projects
