@@ -2,7 +2,7 @@
 content_type: resource
 description: Exercise involving questions and problems related to the Design Example
   provided here.
-file: /ol-ocw-studio-app/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/13fc19d9f3cc5de9392fd1553a1e9405_DesignExample2.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/13fc19d9f3cc5de9392fd1553a1e9405_DesignExample2.pdf
 file_size: 247344
 file_type: application/pdf
 learning_resource_types:

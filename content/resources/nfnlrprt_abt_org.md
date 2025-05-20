@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6698ca34db38fc4285c867ed4ad13378_nfnlrprt_abt_org.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/6698ca34db38fc4285c867ed4ad13378_nfnlrprt_abt_org.pdf
 file_size: 258006
 file_type: application/pdf
 learning_resource_types:
