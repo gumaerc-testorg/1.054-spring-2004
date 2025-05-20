@@ -2,7 +2,7 @@
 content_type: resource
 description: Outline 10. This handout contains an outline of topics covered in course
   lectures.
-file: /ol-ocw-studio-app/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/72ba031a8c9988b87a14019296714217_Outline_10.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/72ba031a8c9988b87a14019296714217_Outline_10.pdf
 file_size: 153885
 file_type: application/pdf
 learning_resource_types:

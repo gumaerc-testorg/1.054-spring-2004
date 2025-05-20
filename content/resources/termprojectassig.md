@@ -6,7 +6,7 @@ description: 'This document provides the term project assignment for Spring 2004
   to the vast body of research and
 
   development upon which current design practices are based.'
-file: /ol-ocw-studio-app/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/3bfc6fd6e47a9f20342e2aa445a3f46e_termprojectassig.pdf
+file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/3bfc6fd6e47a9f20342e2aa445a3f46e_termprojectassig.pdf
 file_size: 27532
 file_type: application/pdf
 learning_resource_types:
