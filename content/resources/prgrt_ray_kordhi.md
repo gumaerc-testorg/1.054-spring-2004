@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/78e82ae2d3814a26c44c89a9bef1316b_prgrt_ray_kordhi.pdf
+file: /ol-ocw-studio-app/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/78e82ae2d3814a26c44c89a9bef1316b_prgrt_ray_kordhi.pdf
 file_size: 25649
 file_type: application/pdf
 learning_resource_types:
